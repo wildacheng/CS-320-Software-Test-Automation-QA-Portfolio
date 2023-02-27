@@ -8,4 +8,6 @@ To ensure that my program is functional and secure I follow a few secure coding 
 I interpret user needs by holding interviews for the likely users of the product and making direct observations. From my analysis, I will create user stories to articulate a software feature from the user's perspective. From there I will create requirements to incorporate into the program. 
 
 ## How do I approach designing software?
+My approach to software design is applying the Agile development methodology to promote continous iteration of development and testing throughout the software development lifecyle. I follow the standard phases of Agile development from conception to maintenance. 
+
 
